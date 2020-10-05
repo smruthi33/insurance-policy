@@ -42,7 +42,8 @@ pip install -r requirements.txt
 
 * Then run 
 
-``` python app.py
+``` 
+python app.py
 ```
 
 ## Sample Output
