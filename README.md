@@ -54,5 +54,5 @@ python app.py
 
 * In the bottom right, you will have the integrated chatbot interface from Watson Assistant + Discovery
 
-  ![](doc/src/images/sample-1.png)
+  ![](doc/src/images/sample-2.png)
   
