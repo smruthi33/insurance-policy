@@ -8,7 +8,7 @@ When user has completed the pattern he will-
 * Send sample documents to Watson Discovery ans train custom model 
 * User will learn how to integrate insights generated with Discovery back to Assistant
 
-![](doc/src/images/arch.png)
+![](doc/src/images/Arch.png)
 
 ## Pre Requisite
 
